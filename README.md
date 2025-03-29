@@ -1,0 +1,1 @@
+I have built an ToDoApp using React and js, which has a functionalities like adding and todo work,deleting workand marking up the work which is done.And also it displays the total number of todos and the completed todos.
